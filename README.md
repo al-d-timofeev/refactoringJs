@@ -1,2 +1,2 @@
 # refactoringJs
-Рефакторинг кода js (functions regionToList и openRegionMap)
+Рефакторинг кода js (сам код не писал; сделал в частности functions regionToList и openRegionMap)
